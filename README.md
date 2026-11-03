@@ -1,6 +1,3 @@
-# project-sql-pertama
-Pada repository ini saya membagikan pengalaman pertama saya melakukan dummy project menggunakan PostgreSQL menggunakan dataset yang saya dapatkan di ngulikdata.com
-
 Hai. Selamat datang pada penjelasan portfolio dari dataset yang saya dapatkan melalui website [ngulikdata.com](http://ngulikdata.com). 
 
 Dataset ini saya namakan ‘Sedukopi’ yang memuat 5 tabel di dalamnya. Sedukopi merupakan toko gerai kopi fiktif di beberapa kota terkenal di Indonesia yang sengaja dibuat untuk membantu kami pembelajar SQL atau Spreadsheet dalam mendapatkan project pertama portofolio sebagai Data Analyst. Di dalamnya terdapat lima tabel, yaitu tabel orders, outlets, menu_items, staff, dan order_details.
